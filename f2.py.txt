@@ -1,0 +1,1 @@
+print("This generation is called GEN-Z")
